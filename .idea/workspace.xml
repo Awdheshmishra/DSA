@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2be68f88-883e-46af-bb96-4f0d82857d91" name="Changes" comment="Initial commit - Added DSA project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Awdheshmishra&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Awdheshmishra/java.git&quot;,
+    &quot;accountId&quot;: &quot;d80a89d0-43cd-4a23-94b1-824ecc0afddd&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2vuc9eUrV4fffHRBZDcihna8154" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Mian.executor": "Run",
+    "Application.Squre.executor": "Run",
+    "Application.absolutenumber.executor": "Run",
+    "Application.areanperimeterofrect.executor": "Run",
+    "Application.arithmaticprogression.executor": "Run",
+    "Application.armstrongnumber.executor": "Run",
+    "Application.arraylistadd.executor": "Run",
+    "Application.basicsofarraylist.executor": "Run",
+    "Application.basicsyntax.executor": "Run",
+    "Application.calculator.executor": "Run",
+    "Application.compositenumber.executor": "Run",
+    "Application.continuestatement.executor": "Run",
+    "Application.copyofarray.executor": "Run",
+    "Application.demo.executor": "Run",
+    "Application.digit.executor": "Run",
+    "Application.divisibleby5.executor": "Run",
+    "Application.evenodd.executor": "Run",
+    "Application.findyounger.executor": "Run",
+    "Application.first.executor": "Run",
+    "Application.fivedigitnumber.executor": "Debug",
+    "Application.geometricprogression.executor": "Run",
+    "Application.gradeofstudents.executor": "Run",
+    "Application.greatestofthreenumbers.executor": "Run",
+    "Application.initialisearray.executor": "Run",
+    "Application.inputtaking.executor": "Run",
+    "Application.leastnumber.executor": "Run",
+    "Application.linearsearch.executor": "Run",
+    "Application.list.executor": "Run",
+    "Application.loop.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.maximumvalue.executor": "Run",
+    "Application.minimumvalue.executor": "Run",
+    "Application.nontail.executor": "Run",
+    "Application.nspnstmethod.executor": "Run",
+    "Application.numberbridge.executor": "Run",
+    "Application.numberspiral.executor": "Run",
+    "Application.oroperator.executor": "Run",
+    "Application.outputofthearrays.executor": "Run",
+    "Application.overloding.executor": "Run",
+    "Application.overriding.executor": "Run",
+    "Application.paasbyrefrence.executor": "Run",
+    "Application.palindrome.executor": "Run",
+    "Application.palindromepyramid.executor": "Run",
+    "Application.passingarraymethods.executor": "Run",
+    "Application.predictoutout1.executor": "Run",
+    "Application.primenumber.executor": "Run",
+    "Application.print1to100.executor": "Run",
+    "Application.printevennumberr.executor": "Run",
+    "Application.printtable.executor": "Run",
+    "Application.profitloss.executor": "Run",
+    "Application.question1.executor": "Run",
+    "Application.reversearray.executor": "Run",
+    "Application.reversearraySWAPvariable.executor": "Run",
+    "Application.rhombus.executor": "Run",
+    "Application.second.executor": "Run",
+    "Application.secondlargestelement.executor": "Run",
+    "Application.siddhu.executor": "Run",
+    "Application.starbridge.executor": "Run",
+    "Application.stardiamond.executor": "Run",
+    "Application.starpyramid.executor": "Run",
+    "Application.startriangleflipped.executor": "Run",
+    "Application.sumofallgivenarrays.executor": "Run",
+    "Application.switchcase.executor": "Run",
+    "Application.tail.executor": "Run",
+    "Application.ternaryoperator.executor": "Run",
+    "Application.threedigitnumber.executor": "Run",
+    "Application.triangleornot.executor": "Run",
+    "Application.twopointersREVERSE.executor": "Run",
+    "Application.twosumofarray.executor": "Run",
+    "Application.withoutusingop_3grtst.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/Awdhesh Mishra/OneDrive/Desktop/java/java code/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="arithmaticprogression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.ForLoop.arithmaticprogression" />
+      <module name="java code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="breakstatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.ForLoop.breakstatement" />
+      <module name="java code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="continuestatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.ForLoop.continuestatement" />
+      <module name="java code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometricprogression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.ForLoop.geometricprogression" />
+      <module name="java code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.ForLoop.printtable" />
+      <module name="java code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.continuestatement" />
+        <item itemvalue="Application.breakstatement" />
+        <item itemvalue="Application.geometricprogression" />
+        <item itemvalue="Application.arithmaticprogression" />
+        <item itemvalue="Application.printtable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be68f88-883e-46af-bb96-4f0d82857d91" name="Changes" comment="" />
+      <created>1744998250356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744998250356</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit - Added DSA project">
+      <option name="closed" value="true" />
+      <created>1758423695041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758423695043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit - Added DSA project">
+      <option name="closed" value="true" />
+      <created>1758423865197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758423865197</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="core java concept" />
+    <MESSAGE value="Initial commit - Added DSA project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit - Added DSA project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basiccode/armstrongnumber.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basiccode/recursion/digit.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basiccode/recursion/siddhu.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA/ForLoop/conditional/areanperimeterofrect.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA/ForLoop/conditional/leastnumber.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gradeofstudents.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA/ForLoop/conditional/triangleornot.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA/ForLoop/printtable.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA/ForLoop/arithmaticprogression.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA/ForLoop/continuestatement.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA/ForLoop/continuestatement.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
