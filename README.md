@@ -8,6 +8,12 @@ and Algorithms such as arrays, searching, sorting, recursion, etc.
 - ArrayList
 - Sorting
 - Two Pointer Problems
+- methods
+- loops
+- patterns
+- polymorphism
+- list
+- some leetcode questions
 
 ## Tools
 - Java
