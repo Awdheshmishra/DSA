@@ -6,6 +6,8 @@ and Algorithms such as arrays, searching, sorting, recursion, etc.
 ## Topics Covered
 - Arrays
 - ArrayList
+- Strings
+- Stringbuilders
 - Sorting
 - Two Pointer Problems
 - methods
